@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @abhimd3251
-- 👀 I’m interested in photography 
-- 🌱 I’m currently learning software testing  
